@@ -14,4 +14,4 @@ There are three pages, they are as outlined below:
 
 screenshoot below:
 
-!img[https://github.com/fhsal/FHS-Updated-Profile/blob/master/assets/images/Screenshot.jpg]
+![img](https://github.com/fhsal/FHS-Updated-Profile/blob/master/assets/images/Screenshot.jpg)
