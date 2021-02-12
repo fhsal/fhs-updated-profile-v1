@@ -2,7 +2,7 @@
 
 This set of pages is an update of my Portfolio page to include current projects, resume and linked-in profile with appropriate modifications to the layout and elements to acoomodate the additional information.
 
-Link to the Profile:  https://fhsal.github.io/FHS-Updated-Profile/Index.html
+Link to the Profile:  https://fhsal.github.io/FHS-Updated-Profile-v1/Index.html
 
 There are three pages, they are as outlined below:
 
